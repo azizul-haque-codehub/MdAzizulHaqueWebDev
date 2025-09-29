@@ -5,13 +5,13 @@
   
 - ## <ins><div align="center">I'm Azizul Haque, a Front-end developer 👨‍💻</div></ins>  
 
-- 🔭 I’m currently working on personal coding projects .  
+-  I’m currently working on personal coding projects .  
   
 
-- 🌱 I’m currently learning Actively seeking new opportunities in web development  
+- I’m currently learning Actively seeking new opportunities in web development  
   
 
-- ❓ Ask me about anything related to Front-end stack and related technologies  
+-  Ask me about anything related to Front-end stack and related technologies  
   
 
 - ⚡ Fun fact: Ninja Coder   
@@ -66,7 +66,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/MdAzizulHaqueWebDev" target="_blank">
+<a href="https://github.com/azizul-haque-codehub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/@md_azizul18131" target="_blank">
@@ -88,9 +88,9 @@
   Github Stats
 </h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzizulHaqueWebDev&theme=synthwave&show_icons=true&hide_border=true&layout=compact" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAzizulHaqueWebDev&theme=dracula&show_icons=true&hide_border=true&count_private=false" /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAzizulHaqueWebDev&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizul-haque-codehub&theme=synthwave&show_icons=true&hide_border=true&layout=compact" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azizul-haque-codehub&theme=dracula&show_icons=true&hide_border=true&count_private=false" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizul-haque-codehub&theme=dracula&hide_border=true" />
 </div>
 <br/>
 <br/>
